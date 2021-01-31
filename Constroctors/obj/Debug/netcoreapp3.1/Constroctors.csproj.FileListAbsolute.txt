@@ -1,0 +1,13 @@
+C:\Users\a\source\repos\KampIntro\Constroctors\bin\Debug\netcoreapp3.1\Constroctors.exe
+C:\Users\a\source\repos\KampIntro\Constroctors\bin\Debug\netcoreapp3.1\Constroctors.deps.json
+C:\Users\a\source\repos\KampIntro\Constroctors\bin\Debug\netcoreapp3.1\Constroctors.runtimeconfig.json
+C:\Users\a\source\repos\KampIntro\Constroctors\bin\Debug\netcoreapp3.1\Constroctors.runtimeconfig.dev.json
+C:\Users\a\source\repos\KampIntro\Constroctors\bin\Debug\netcoreapp3.1\Constroctors.dll
+C:\Users\a\source\repos\KampIntro\Constroctors\bin\Debug\netcoreapp3.1\Constroctors.pdb
+C:\Users\a\source\repos\KampIntro\Constroctors\obj\Debug\netcoreapp3.1\Constroctors.csprojAssemblyReference.cache
+C:\Users\a\source\repos\KampIntro\Constroctors\obj\Debug\netcoreapp3.1\Constroctors.AssemblyInfoInputs.cache
+C:\Users\a\source\repos\KampIntro\Constroctors\obj\Debug\netcoreapp3.1\Constroctors.AssemblyInfo.cs
+C:\Users\a\source\repos\KampIntro\Constroctors\obj\Debug\netcoreapp3.1\Constroctors.csproj.CoreCompileInputs.cache
+C:\Users\a\source\repos\KampIntro\Constroctors\obj\Debug\netcoreapp3.1\Constroctors.dll
+C:\Users\a\source\repos\KampIntro\Constroctors\obj\Debug\netcoreapp3.1\Constroctors.pdb
+C:\Users\a\source\repos\KampIntro\Constroctors\obj\Debug\netcoreapp3.1\Constroctors.genruntimeconfig.cache
