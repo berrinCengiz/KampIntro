@@ -9,7 +9,7 @@ namespace GenericsIntro
         T[] items; // class ın bütün operasyonları erişebilir.
         public MyList()// class ile aynı isim
         {
-            items = new T[0];// constructor new lediğimiz zaman ilk olarak burası çalışır.
+            items = new T[0];// constructor  - new lediğimiz zaman ilk olarak burası çalışır.
         }
         public void Add(T item)
         {
