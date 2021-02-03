@@ -1,0 +1,13 @@
+C:\Users\a\source\repos\KampIntro\GameProject\bin\Debug\netcoreapp3.1\GameProject.exe
+C:\Users\a\source\repos\KampIntro\GameProject\bin\Debug\netcoreapp3.1\GameProject.deps.json
+C:\Users\a\source\repos\KampIntro\GameProject\bin\Debug\netcoreapp3.1\GameProject.runtimeconfig.json
+C:\Users\a\source\repos\KampIntro\GameProject\bin\Debug\netcoreapp3.1\GameProject.runtimeconfig.dev.json
+C:\Users\a\source\repos\KampIntro\GameProject\bin\Debug\netcoreapp3.1\GameProject.dll
+C:\Users\a\source\repos\KampIntro\GameProject\bin\Debug\netcoreapp3.1\GameProject.pdb
+C:\Users\a\source\repos\KampIntro\GameProject\obj\Debug\netcoreapp3.1\GameProject.csprojAssemblyReference.cache
+C:\Users\a\source\repos\KampIntro\GameProject\obj\Debug\netcoreapp3.1\GameProject.AssemblyInfoInputs.cache
+C:\Users\a\source\repos\KampIntro\GameProject\obj\Debug\netcoreapp3.1\GameProject.AssemblyInfo.cs
+C:\Users\a\source\repos\KampIntro\GameProject\obj\Debug\netcoreapp3.1\GameProject.csproj.CoreCompileInputs.cache
+C:\Users\a\source\repos\KampIntro\GameProject\obj\Debug\netcoreapp3.1\GameProject.dll
+C:\Users\a\source\repos\KampIntro\GameProject\obj\Debug\netcoreapp3.1\GameProject.pdb
+C:\Users\a\source\repos\KampIntro\GameProject\obj\Debug\netcoreapp3.1\GameProject.genruntimeconfig.cache
